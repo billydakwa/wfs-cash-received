@@ -1,0 +1,2 @@
+strConnection = "##@BUILDER.strODBCString##"
+
